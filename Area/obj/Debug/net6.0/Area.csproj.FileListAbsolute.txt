@@ -1,0 +1,12 @@
+C:\Users\bayge\source\repos\Area\Area\bin\Debug\net6.0\Area.deps.json
+C:\Users\bayge\source\repos\Area\Area\bin\Debug\net6.0\Area.dll
+C:\Users\bayge\source\repos\Area\Area\bin\Debug\net6.0\Area.pdb
+C:\Users\bayge\source\repos\Area\Area\obj\Debug\net6.0\Area.csproj.AssemblyReference.cache
+C:\Users\bayge\source\repos\Area\Area\obj\Debug\net6.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayge\source\repos\Area\Area\obj\Debug\net6.0\Area.AssemblyInfoInputs.cache
+C:\Users\bayge\source\repos\Area\Area\obj\Debug\net6.0\Area.AssemblyInfo.cs
+C:\Users\bayge\source\repos\Area\Area\obj\Debug\net6.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\bayge\source\repos\Area\Area\obj\Debug\net6.0\Area.dll
+C:\Users\bayge\source\repos\Area\Area\obj\Debug\net6.0\refint\Area.dll
+C:\Users\bayge\source\repos\Area\Area\obj\Debug\net6.0\Area.pdb
+C:\Users\bayge\source\repos\Area\Area\obj\Debug\net6.0\ref\Area.dll
